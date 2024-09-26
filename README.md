@@ -4,6 +4,7 @@
 * 👨‍💻 Experienced in SQL, Python, PowerBI, Excel, Tableau, SAS, Data Storytelling, AWS
 * 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
+### About Me
 I’m an experienced Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers—it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
 
 ### What Makes Me Unique:
