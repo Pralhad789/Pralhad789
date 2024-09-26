@@ -4,9 +4,9 @@
 * 👨‍💻 Experienced in Data Analysis, Data Visualization, Data Modelling, Predictive Analysis, ETL pipelines development
 * 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
-I’m a Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers—it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
+I’m an experienced Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers—it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
 
-What Makes Me Unique:
+### What Makes Me Unique:
 * **SQL Proficient:** With advanced SQL expertise, I write optimized, efficient queries and streamline data processes, turning disparate datasets into a cohesive story that informs critical business decisions.
 
 * **Data Visualization Expert:** I transform intricate datasets into intuitive, visually compelling dashboards with PowerBI and Tableau, allowing stakeholders to effortlessly grasp the full narrative behind the data.
