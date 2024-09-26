@@ -1,7 +1,7 @@
 ## Hi, I'm Pralhad !! 👋
 
 * 🎓 MS in Computer Science from Santa Clara University (2022 - 2024)
-* 👨‍💻 Experienced in Data Analysis, Data Modelling, Predictive Analytics, Data Visualization, ETL Pipeline development and delivering business insights that drive growth and decision making.
+* 👨‍💻 Experienced in Data Analysis, Data Modelling, Predictive Analytics, Business Intelligence, Data Visualization, ETL Pipeline development.
 * 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
 ### About Me
