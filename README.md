@@ -1,7 +1,7 @@
 ## Hi, I'm Pralhad !! 👋
 
 * 🎓 MS in Computer Science from Santa Clara University (2022 - 2024)
-* 👨‍💻 Experienced in SQL, Python, PowerBI, Excel, Tableau, SAS, Data Storytelling, AWS
+* 👨‍💻 Experienced in SQL, Python, PowerBI, Excel,Data Analysis, Data Modelling, Data Storytelling, ETL Pipeline development, AWS
 * 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
 ### About Me
