@@ -2,7 +2,7 @@
 
 * 🎓 MS in Computer Science from Santa Clara University (2022 - 2024)
 * 👨‍💻 Experienced in Data Analysis, Data Modelling, Predictive Analytics, Business Intelligence, Data Visualization, ETL Pipeline development.
-* 🎩 Skills : SQL, Python, PowerBI, Tableau, AWS
+* 🎩 Skills : SQL, Python, PowerBI, Tableau, AWS, Excel
 * 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
 ### About Me
