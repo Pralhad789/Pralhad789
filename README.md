@@ -1,15 +1,15 @@
 ## Hi, I'm Pralhad !! 👋
 
-* 🎓 MS in Computer Science from Santa Clara University (2022 - 2024)
-* 👨‍💻 Experienced in Data Analysis, Data Modelling, Predictive Analytics, Business Intelligence, Data Visualization, ETL Pipeline development.
-* 🎩 Skills : SQL, Python, PowerBI, Tableau, AWS, Excel
-* 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
-
 ### About Me
 
 🌟 In today's world where data is gold, I am the goldsmith who makes the data valuable !!
 
 Experienced Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers, it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
+
+* 🎓 MS in Computer Science from Santa Clara University (2022 - 2024)
+* 👨‍💻 Experienced in Data Analysis, Data Modelling, Predictive Analytics, Business Intelligence, Data Visualization, ETL Pipeline development.
+* 🎩 Skills : SQL, Python, PowerBI, Tableau, AWS, Excel
+* 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
 ### What Makes Me Unique:
 * **SQL Proficient:** With advanced SQL expertise, I write optimized, efficient queries and streamline data processes, turning disparate datasets into a cohesive story that informs critical business decisions.
