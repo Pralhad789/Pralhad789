@@ -7,9 +7,9 @@
 
 ### About Me
 
-In today's world where data is gold, I am the goldsmith who makes the data valuable !!
+🌟 In today's world where data is gold, I am the goldsmith who makes the data valuable !!
 
-I’m an experienced Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers—it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
+Experienced Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers, it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
 
 ### What Makes Me Unique:
 * **SQL Proficient:** With advanced SQL expertise, I write optimized, efficient queries and streamline data processes, turning disparate datasets into a cohesive story that informs critical business decisions.
