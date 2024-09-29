@@ -7,6 +7,8 @@
 
 ### About Me
 
+In the world of data, I align data with visionary business strategies !!
+
 I’m an experienced Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers—it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
 
 ### What Makes Me Unique:
