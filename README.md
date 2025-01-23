@@ -2,22 +2,20 @@
 
 ### About Me
 
-🌟 In today's world where data is the new gold, I am the goldsmith who makes the data valuable !!
-
-Experienced Data Analyst who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers, it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
+Experienced Data Engineer who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers, it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
 
 * 🎓 MS in Computer Science from Santa Clara University (2022 - 2024)
-* 👨‍💻 Experienced in Data Analysis, Data Modelling, Predictive Analytics, Business Intelligence, Data Visualization, ETL Pipeline development.
-* 🎩 Skills : SQL, Python, PowerBI, Tableau, AWS, Excel
-* :book: Certifications : [Microsoft PowerBI Data Analyst](https://learn.microsoft.com/en-us/users/pralhadkulkarni-6988/credentials/d4094c606d94a?ref=https%3A%2F%2Fwww.linkedin.com%2F), [Advanced SQL - Hackerrank](https://www.hackerrank.com/certificates/69a3944ffea8)
+* 👨‍💻 Experienced in Big data, Data Engineering, Data Analysis, Data Modelling, ETL Pipeline development, Distributed Systems, Cloud Computing.
+* 🎩 Skills : SQL, Python, PySpark, Pandas, Apache Spark, Apache Airflow, PowerBI, AWS, Azure, Databricks
+* :book: Certifications : [AWS Data Engineer Associate](https://www.credly.com/badges/28448ee7-dd49-4ead-8941-6f51553d7562/public_url), [Advanced SQL - Hackerrank](https://www.hackerrank.com/certificates/69a3944ffea8)
 * 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
 ### What Makes Me Unique:
 * **SQL Proficient:** With advanced SQL expertise, I write optimized, efficient queries and streamline data processes, turning disparate datasets into a cohesive story that informs critical business decisions.
 
-* **Data Visualization Expert:** I transform intricate datasets into intuitive, visually compelling dashboards with PowerBI and Tableau, allowing stakeholders to effortlessly grasp the full narrative behind the data.
-
 * **ETL Architect:** I design and implement robust ETL pipelines that seamlessly integrate and harmonize data from diverse sources, ensuring accuracy, consistency, and reliability across platforms.
+
+* **Data Visualization Expert:** I transform intricate datasets into intuitive, visually compelling dashboards with PowerBI and Tableau, allowing stakeholders to effortlessly grasp the full narrative behind the data.
 
 * **Predictive Analyst:** I apply advanced statistical models and time series forecasting to reveal trends, uncover hidden patterns, and offer actionable insights that shape future strategies with confidence.
 
