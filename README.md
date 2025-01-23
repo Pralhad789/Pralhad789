@@ -2,7 +2,7 @@
 
 ### About Me
 
-Experienced Data Engineer who transforms raw data into compelling stories and actionable insights. My approach goes beyond just analyzing numbers, it's about uncovering the stories they tell and using those insights to fuel strategic decisions that drive business growth.
+Experienced Data Engineer specializing in building and optimizing data pipelines to turn raw data into actionable insights. Skilled in designing and implementing ETL workflows, data modeling, and leveraging big data technologies like Python, PySpark, SQL, Apache Spark, AWS to process and analyze large-scale datasets. My focus is on creating reliable, scalable solutions that empower teams with clean, structured data to drive business decisions and growth.
 
 * 🎓 MS in Computer Science from Santa Clara University (2022 - 2024)
 * 👨‍💻 Experienced in Big data, Data Engineering, Data Analysis, Data Modelling, ETL Pipeline development, Distributed Systems, Cloud Computing.
@@ -11,20 +11,20 @@ Experienced Data Engineer who transforms raw data into compelling stories and ac
 * 💬 Connect with me : https://www.linkedin.com/in/pralhad-kulkarni/
 
 ### What Makes Me Unique:
-* **SQL Proficient:** With advanced SQL expertise, I write optimized, efficient queries and streamline data processes, turning disparate datasets into a cohesive story that informs critical business decisions.
 
-* **ETL Architect:** I design and implement robust ETL pipelines that seamlessly integrate and harmonize data from diverse sources, ensuring accuracy, consistency, and reliability across platforms.
+* **SQL Expert:** I write optimized, efficient SQL queries and manage large datasets, ensuring high-performance data retrieval and processing to support complex analytics and business decision-making.
 
-* **Data Visualization Expert:** I transform intricate datasets into intuitive, visually compelling dashboards with PowerBI and Tableau, allowing stakeholders to effortlessly grasp the full narrative behind the data.
+* **ETL Pipeline Architect:** I design, build, and optimize robust ETL workflows that seamlessly extract, transform, and load data from diverse sources, ensuring clean, consistent, and reliable datasets for analysis.
 
-* **Predictive Analyst:** I apply advanced statistical models and time series forecasting to reveal trends, uncover hidden patterns, and offer actionable insights that shape future strategies with confidence.
+* **Big Data Enthusiast:** I utilize Apache Spark, AWS, and Hadoop to process and analyze large-scale datasets, ensuring scalability and performance for big data projects, enabling faster insights and business value.
 
-* **Collaborative Data Strategist:** Leveraging my cross-functional experience, I ensure data models are perfectly aligned with business objectives, translating complex data into strategic actions that resonate across departments.
+* **Cloud Solutions Architect:** I deploy and manage cloud-based data infrastructures on AWS, Azure, and Google Cloud to support efficient data processing, storage, and analytics pipelines, driving cost-effective and scalable solutions.
 
-* **Insightful Data Storyteller:** I excel in distilling complex analyses into clear, impactful presentations, making data insights accessible and actionable for all stakeholders, regardless of technical expertise.
+* **Data Integration Specialist:** I integrate data from multiple sources using modern tools and frameworks, ensuring smooth data flow and alignment with business objectives to provide actionable insights.
 
-I’m passionate about harnessing the power of data to solve problems and drive innovation. If you’re looking for a data-driven storyteller who can bridge the gap between numbers and strategy, let’s connect!
+* **Data Infrastructure Innovator:** I focus on building and maintaining high-performance data architectures, ensuring that data pipelines run smoothly, and that data is ready for real-time or batch analytics.
 
+I’m passionate about transforming raw data into actionable insights through scalable, efficient, and reliable data engineering practices. Let’s connect if you’re looking for a Data Engineer who can turn complex data problems into streamlined, business-driven solutions!
 
 <!--
 **Pralhad789/Pralhad789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
